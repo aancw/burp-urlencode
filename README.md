@@ -37,8 +37,8 @@ Iteration: 4
 
 ## Support 
 
-[x] URL Encoding all character like in burp
-[x] Multiple url encoding iteration support
+- [x] URL Encoding all character like in burp
+- [x] Multiple url encoding iteration support
 
 ## Motivation
 
