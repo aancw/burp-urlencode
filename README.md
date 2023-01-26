@@ -39,6 +39,7 @@ Iteration: 4
 
 - [x] URL Encoding all character like in burp
 - [x] Multiple url encoding iteration support
+- [x] Support silent mode 
 
 ## Motivation
 
